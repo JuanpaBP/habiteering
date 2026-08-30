@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: poring-habits-backend
+
+server:
+  port: 8080
